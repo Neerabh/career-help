@@ -1,0 +1,235 @@
+export const examOptions = [
+  {
+    category: "Creative & Vocational Courses",
+    options: [
+      {
+        title: "Dance",
+        description: "Become a trained dancer in classical or modern styles",
+        icon: "Activity",
+        color: "pink-600",
+        path: "/career/other/dance",
+        institutes: "Shiamak Davar Institute, Terence Lewis",
+      },
+      {
+        title: "Photography",
+        description: "Master camera, lighting, and editing techniques",
+        icon: "Camera",
+        color: "blue-600",
+        path: "/career/other/photography",
+        institutes: "Delhi School of Photography, Pixel Institute",
+      },
+      {
+        title: "Filmmaking",
+        description: "Learn direction, scriptwriting, and acting",
+        icon: "Film",
+        color: "purple-600",
+        path: "/career/other/filmmaking",
+        institutes: "FTII Pune, Whistling Woods, AAFT",
+      },
+      {
+        title: "Makeup Artistry",
+        description: "Bridal, fashion, and film makeup techniques",
+        icon: "Palette",
+        color: "pink-600",
+        path: "/career/other/makeup",
+        institutes: "Lakmé Academy, VLCC Institute",
+      },
+      {
+        title: "Fashion Styling",
+        description: "Dress and style people for events and shoots",
+        icon: "Shirt",
+        color: "red-600",
+        path: "/career/other/fashion-styling",
+        institutes: "NIFT short courses, IDT India",
+      },
+      {
+        title: "Animation & VFX",
+        description: "Create visual effects, 3D models, and games",
+        icon: "Smartphone",
+        color: "green-600",
+        path: "/career/other/animation",
+        institutes: "Arena Animation, MAAC, Frameboxx",
+      },
+      {
+        title: "Air Hostess Training",
+        description: "Travel and hospitality careers in aviation",
+        icon: "Plane",
+        color: "blue-600",
+        path: "/career/other/air-hostess",
+        institutes: "Frankfinn, Aptech Aviation Academy",
+      },
+      {
+        title: "Event Management",
+        description: "Plan weddings, shows, and corporate events",
+        icon: "Calendar",
+        color: "purple-600",
+        path: "/career/other/event-management",
+        institutes: "NIEM, Wizcraft MIME",
+      },
+      {
+        title: "Digital Content Creation",
+        description: "Become a YouTuber, Podcaster, or Social Media Creator",
+        icon: "Share2",
+        color: "red-600",
+        path: "/career/other/digital-content",
+        institutes: "YouTube Creators Academy, Domestika",
+      },
+    ],
+  },
+];
+
+export const degreeOptions = [
+  {
+    category: "Creative Arts",
+    options: [
+      {
+        title: "Dance",
+        description: "Professional training in various dance forms",
+        icon: "Activity",
+        color: "pink-600",
+        path: "/career/other/dance",
+        institutes: "Shiamak Davar Institute, Terence Lewis",
+      },
+      {
+        title: "Photography",
+        description: "Professional photography and editing",
+        icon: "Camera",
+        color: "blue-600",
+        path: "/career/other/photography",
+        institutes: "Delhi School of Photography, Pixel Institute",
+      },
+      {
+        title: "Filmmaking",
+        description: "Complete film production training",
+        icon: "Film",
+        color: "purple-600",
+        path: "/career/other/filmmaking",
+        institutes: "FTII Pune, Whistling Woods, AAFT",
+      },
+    ],
+  },
+  {
+    category: "Beauty & Fashion",
+    options: [
+      {
+        title: "Makeup Artistry",
+        description: "Professional makeup training",
+        icon: "Palette",
+        color: "pink-600",
+        path: "/career/other/makeup",
+        institutes: "Lakmé Academy, VLCC Institute",
+      },
+      {
+        title: "Fashion Styling",
+        description: "Fashion and personal styling",
+        icon: "Shirt",
+        color: "red-600",
+        path: "/career/other/fashion-styling",
+        institutes: "NIFT short courses, IDT India",
+      },
+    ],
+  },
+  {
+    category: "Media & Entertainment",
+    options: [
+      {
+        title: "Animation & VFX",
+        description: "Animation and visual effects training",
+        icon: "Smartphone",
+        color: "green-600",
+        path: "/career/other/animation",
+        institutes: "Arena Animation, MAAC, Frameboxx",
+      },
+      {
+        title: "Digital Content Creation",
+        description: "Content creation for digital platforms",
+        icon: "Share2",
+        color: "red-600",
+        path: "/career/other/digital-content",
+        institutes: "YouTube Creators Academy, Domestika",
+      },
+    ],
+  },
+];
+
+export const careerOptions = [
+  {
+    category: "Creative Arts",
+    options: [
+      {
+        title: "Professional Dancer",
+        description: "Perform in shows, movies, or teach dance",
+        icon: "Activity",
+        color: "pink-600",
+        path: "/career/other/dancer",
+        institutes: "Shiamak Davar Institute, Terence Lewis",
+      },
+      {
+        title: "Photographer",
+        description: "Work in fashion, events, or journalism",
+        icon: "Camera",
+        color: "blue-600",
+        path: "/career/other/photographer",
+        institutes: "Delhi School of Photography, Pixel Institute",
+      },
+      {
+        title: "Filmmaker",
+        description: "Direct, write, or act in films",
+        icon: "Film",
+        color: "purple-600",
+        path: "/career/other/filmmaker",
+        institutes: "FTII Pune, Whistling Woods, AAFT",
+      },
+    ],
+  },
+  {
+    category: "Beauty & Fashion",
+    options: [
+      {
+        title: "Makeup Artist",
+        description: "Work in fashion, films, or bridal industry",
+        icon: "Palette",
+        color: "pink-600",
+        path: "/career/other/makeup-artist",
+        institutes: "Lakmé Academy, VLCC Institute",
+      },
+      {
+        title: "Fashion Stylist",
+        description: "Style for magazines, shows, or celebrities",
+        icon: "Shirt",
+        color: "red-600",
+        path: "/career/other/fashion-stylist",
+        institutes: "NIFT short courses, IDT India",
+      },
+    ],
+  },
+  {
+    category: "Hospitality & Media",
+    options: [
+      {
+        title: "Air Hostess",
+        description: "Work in domestic or international airlines",
+        icon: "Plane",
+        color: "blue-600",
+        path: "/career/other/air-hostess",
+        institutes: "Frankfinn, Aptech Aviation Academy",
+      },
+      {
+        title: "Event Manager",
+        description: "Plan and execute various events",
+        icon: "Calendar",
+        color: "purple-600",
+        path: "/career/other/event-manager",
+        institutes: "NIEM, Wizcraft MIME",
+      },
+      {
+        title: "Content Creator",
+        description: "Create digital content for various platforms",
+        icon: "Share2",
+        color: "red-600",
+        path: "/career/other/content-creator",
+        institutes: "YouTube Creators Academy, Domestika",
+      },
+    ],
+  },
+];
